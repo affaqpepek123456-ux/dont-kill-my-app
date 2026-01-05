@@ -1,6 +1,6 @@
----
+affaqpepek123456@gmail.com---
 manufacturer: 
-    - oppo
+    - oppo A15
 
 ---
 
